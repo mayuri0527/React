@@ -2,7 +2,7 @@
 
 function App() {
   return (
-   <h1>React-Series |MJ</h1>
+   <h1>React-Series | MJ</h1>
   );
 }
 
