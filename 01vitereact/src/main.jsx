@@ -5,7 +5,7 @@ import App from './App.jsx'
 function MyApp(){
     return(
         <div>
-            <h1>Hidden App !</h1>
+            <h1>Custom App !</h1>
         </div>
     )
 }
