@@ -10,7 +10,10 @@ function App() {
    style =  {{backgroundColor: color}}
     >
       <div className="fixed flex flex-wrap 
-      justify-center top-12 inset-x-0 px-2">
+      justify-center top-40 inset-x-0 px-2 w-full max-w-md mx-auto shadow-md 
+   rounded-lg px-4 py-3  my-8 ">
+         <h1 className='text-white  text-center  my-7 px-7 py-7 
+    underline decoration font-serif'>COLOR WORLD!!</h1>
         <div className="flex flex-wrap justify-center 
         gap-3 shadow-lg bg-white px-3 py-2 rounded-3xl">
           <button 
